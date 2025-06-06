@@ -25,8 +25,8 @@ A full-featured blog application built using **Django** for the backend and **HT
 ## 📸 Screenshots
 
 *(Include images if available)*  
-![Home Page](screenshots/home.png)  
-![Dashboard](screenshots/dashboard.png)
+![Screenshot 2025-06-06 201928](https://github.com/user-attachments/assets/e2614a99-3f7d-4852-88ca-f6a2a4e2275c)
+
 
 ## 🧑‍💻 How to Run Locally
 
